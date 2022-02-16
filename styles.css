@@ -1,0 +1,14 @@
+.padding {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.padding-sm {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.padding-lg {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
